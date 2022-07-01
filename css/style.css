@@ -11,6 +11,7 @@ body{
         padding: 1em;
         text-align: left;
         border: 1px solid #ddd;
+        margin: 0 auto;
     }
     #container h1{
         font-size: 20px;
